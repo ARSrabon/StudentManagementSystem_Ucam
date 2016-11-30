@@ -1,0 +1,11 @@
+Before you start to use this Project do follow these steps given below:
+
+Step 1: IF you want to run this project in Local Server (Local Computer) , Run 'XAMPP 5.5.24' . Check localhost 		works fine.
+		
+		ELSE IF you want to run this project on a web server , then try running a simple php files.
+
+Step 2: Create a database in you web/local server. import database file from "DatabaseBackup" Folder.
+
+Step 3: Copy 'sms' folder to your htdocs Or Publichtml folder. you can rename this folder.
+
+Step 4: now you can access it by entering 'localhost:port/sms' Or 'www.yourWebAddress.com/sms'. incase you have 		changed the folder name then replace 'sms' with your given folder name.

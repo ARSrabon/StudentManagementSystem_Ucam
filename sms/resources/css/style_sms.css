@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+
+/* 
+    Created on : Aug 20, 2016, 4:50:15 PM
+    Author     : Nusrat Chaity
+*/
+
+@import"login_signup.css";
+@import"css-menu.css";
+
+
+#wlc_admin{
+    background-color: coral;
+    border: 1px solid #000;
+}
+
+#logout_link{
+    float: right;
+}
+
+.sect input{
+    background-color:  #ffffff;
+    color: #000;
+}
+
+#special input{
+    width:50px;
+}
+
+.banner {
+    color: darkolivegreen;
+    display: block;
+    background-color: blanchedalmond;
+    margin-top: 0px;
+    border: 1px solid;
+}
+
+input{
+    font-size: 1.1em;
+    color: #fff;
+}
+
+select{
+    font-size: 1.1em;
+    width: 95.5%;
+}
+
+#designation_only{
+    display: none;
+}
+
+#logOut {
+    /*background-color: #ff6633;*/
+    float: right;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    border: 1px solid #ff6633;
+}
+
+.header_template {
+    display: inline-block;
+    width: 100%;
+    font-size: 1.1em;
+    background-color: #fff;
+    border: 2px solid #990000;
+    baseline-shift: baseline;
+}
+
+.header_template input{
+    padding: 5px;
+    background-color: #ff9933;
+}
+
+.header_template input:hover{
+    background-color: #126d9b;
+}
+
+.header_template a{
+    text-decoration: none;
+    color: black;
+}
+
+.header_template a:hover{
+    color: #999;
+}
